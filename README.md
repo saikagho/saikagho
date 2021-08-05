@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikagho
 - 👀 I’m interested in front-end development and DevOps
-- 🌱 I’m currently working for Capgemini
+- 🌱 I’m currently working for Orange Group
 - 💞️ I’m looking to collaborate on Front-end development projects
 - 📫 You can reach me @ saikkat7ghosh@gmail.com
 
