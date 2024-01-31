@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @saikagho
-- 👀 I’m interested in front-end development and DevOps
-- 🌱 I’m currently working for Orange Group
+- 👀 I’m interested in fullstack development and learning to become more better at Backend development
+- 🌱 I’m currently working for Allakando AB as a Fullstack Developer, inclined to Front-end development more than Backend development
 - 💞️ I’m looking to collaborate on Front-end development projects
 - 📫 You can reach me @ saikkat7ghosh@gmail.com
 
